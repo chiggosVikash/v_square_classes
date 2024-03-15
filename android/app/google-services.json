@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "849572262038",
+    "project_id": "vsquareclasses-e8e78",
+    "storage_bucket": "vsquareclasses-e8e78.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:849572262038:android:f3b89f1984f8712eb792b7",
+        "android_client_info": {
+          "package_name": "com.ygsd.vsquareclasses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "849572262038-fqf3di1vqb30fsu0al3qj59jv9tdje2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ygsd.vsquareclasses",
+            "certificate_hash": "f0b2d45b5af5fa50ee1ec2985c33a8f914e80cff"
+          }
+        },
+        {
+          "client_id": "849572262038-os843q13vq72c1ho2hbrggkbm4a0a80m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEgIGDS1rZgJr3pfSvOg3AV1nZ2LZ5YhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "849572262038-os843q13vq72c1ho2hbrggkbm4a0a80m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "849572262038-as01somq0i1fqejj7uk5nfphgjgcmh8e.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ygsd.vsquareclasses.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,5 @@
+
+enum AddressTypeEnum{
+  correspondenceAddress,
+  permanentAddress
+}

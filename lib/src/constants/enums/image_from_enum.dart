@@ -1,0 +1,5 @@
+
+enum ImageFromEnum{
+  camera,
+  gallery
+}

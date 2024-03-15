@@ -1,0 +1,2 @@
+
+enum DiscountTypeEnum { percentage, flat }
